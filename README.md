@@ -8,9 +8,10 @@
   </a> &nbsp;&nbsp;
 </p>
 
-I am Fabio Camerota and I am currently a Data Science Analyst at the `European Central Bank` (ECB).
+I am Fabio Camerota and I am currently a Software Development Engineer at `Amazon`.
 
 :briefcase: **Work Experience**
+- Software Development Engineer at Amazon
 - Data Science Analyst at the European Central Bank (ECB)
 - Data Scientist Trainee at the European Central Bank (ECB)
 - Mobile Developer at Toolery (an innovative Italian start-up)
